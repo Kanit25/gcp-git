@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Zest Prime GCP App engine React JS demo.
+        Prueba GCP App engine React JS demo, para Uniminuto
       </header>
     </div>
   );
